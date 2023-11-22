@@ -8,4 +8,4 @@
 
 ### For Website :
 - Design : https://www.figma.com/file/jZgnz8k3MeCRUIousKuRZt/website-design?type=design&node-id=13%3A11&mode=design&t=oEiJP5y9Kl27KAuj-1
-- Uder Flow : https://www.figma.com/file/jZgnz8k3MeCRUIousKuRZt/website-design?type=design&node-id=0%3A1&mode=design&t=oEiJP5y9Kl27KAuj-1
+- User Flow : https://www.figma.com/file/jZgnz8k3MeCRUIousKuRZt/website-design?type=design&node-id=0%3A1&mode=design&t=oEiJP5y9Kl27KAuj-1
